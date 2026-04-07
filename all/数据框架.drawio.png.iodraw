@@ -57,10 +57,10 @@
           <mxGeometry x="570" y="411" width="117" height="48" as="geometry" />
         </mxCell>
         <mxCell id="6RB07m-3LFErhQ-v9S9f-10" value="教室102" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" parent="1" vertex="1">
-          <mxGeometry x="740" y="250" width="117" height="48" as="geometry" />
+          <mxGeometry x="740" y="411" width="117" height="48" as="geometry" />
         </mxCell>
         <mxCell id="6RB07m-3LFErhQ-v9S9f-11" value="教室103" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" parent="1" vertex="1">
-          <mxGeometry x="1034" y="250" width="117" height="48" as="geometry" />
+          <mxGeometry x="1034" y="411" width="117" height="48" as="geometry" />
         </mxCell>
         <mxCell id="6RB07m-3LFErhQ-v9S9f-12" value="教室..." style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="1200" y="250" width="130" height="48" as="geometry" />
