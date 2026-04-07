@@ -63,10 +63,10 @@
           <mxGeometry x="1034" y="411" width="117" height="48" as="geometry" />
         </mxCell>
         <mxCell id="6RB07m-3LFErhQ-v9S9f-12" value="教室..." style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" parent="1" vertex="1">
-          <mxGeometry x="1200" y="250" width="130" height="48" as="geometry" />
+          <mxGeometry x="1198" y="411" width="130" height="48" as="geometry" />
         </mxCell>
         <mxCell id="6RB07m-3LFErhQ-v9S9f-15" value="扫描写入Redis" style="curved=1;startArrow=none;endArrow=block;exitX=0.51;exitY=1;entryX=0.5;entryY=0.01;rounded=0;fontSize=17;" parent="1" source="6RB07m-3LFErhQ-v9S9f-6" target="6RB07m-3LFErhQ-v9S9f-10" edge="1">
-          <mxGeometry x="0.0033" relative="1" as="geometry">
+          <mxGeometry x="-0.134" y="11" relative="1" as="geometry">
             <Array as="points" />
             <mxPoint as="offset" />
           </mxGeometry>
