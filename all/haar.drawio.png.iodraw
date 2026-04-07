@@ -7,7 +7,7 @@
         <mxCell id="9c9SPbcV6du_91TKZ6U2-1" value="开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=1;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="20" y="36" width="55" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="9c9SPbcV6du_91TKZ6U2-2" value="选择 Haar 特征" style="whiteSpace=wrap;strokeWidth=1;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="9c9SPbcV6du_91TKZ6U2-2" value="提取 Haar 特征" style="whiteSpace=wrap;strokeWidth=1;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="125" y="29" width="167" height="48" as="geometry" />
         </mxCell>
         <mxCell id="9c9SPbcV6du_91TKZ6U2-3" value="计算积分图以加速 Haar 特征计算" style="whiteSpace=wrap;strokeWidth=1;fontSize=12;" vertex="1" parent="1">
