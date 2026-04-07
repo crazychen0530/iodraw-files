@@ -14,7 +14,7 @@
           <mxGeometry x="350" y="19.5" width="227" height="66" as="geometry" />
         </mxCell>
         <mxCell id="9c9SPbcV6du_91TKZ6U2-4" value="使用 AdaBoost 训练弱分类器" style="whiteSpace=wrap;strokeWidth=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="382" y="220" width="163" height="66" as="geometry" />
+          <mxGeometry x="382" y="163" width="163" height="66" as="geometry" />
         </mxCell>
         <mxCell id="9c9SPbcV6du_91TKZ6U2-5" value="组合为强分类器" style="whiteSpace=wrap;strokeWidth=1;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="160" y="229" width="156" height="48" as="geometry" />
