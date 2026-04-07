@@ -1,0 +1,100 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="24.7.17">
+  <diagram name="第 1 页" id="mHllSZ3i1DWpfLAV1oEC">
+    <mxGraphModel dx="1431" dy="799" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6RB07m-3LFErhQ-v9S9f-1" value="" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="531" y="20" width="850" height="337" as="geometry" />
+        </mxCell>
+        <mxCell id="6RB07m-3LFErhQ-v9S9f-2" value="Redis教室人数缓存" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="551" y="233" width="802" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="6RB07m-3LFErhQ-v9S9f-3" value="摄像头分发模块" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="551" y="45" width="816" height="116" as="geometry" />
+        </mxCell>
+        <mxCell id="6RB07m-3LFErhQ-v9S9f-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6RB07m-3LFErhQ-v9S9f-4" target="6RB07m-3LFErhQ-v9S9f-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6RB07m-3LFErhQ-v9S9f-25" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;人数传入&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6RB07m-3LFErhQ-v9S9f-24">
+          <mxGeometry x="-0.7995" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6RB07m-3LFErhQ-v9S9f-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6RB07m-3LFErhQ-v9S9f-4" target="6RB07m-3LFErhQ-v9S9f-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6RB07m-3LFErhQ-v9S9f-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6RB07m-3LFErhQ-v9S9f-4" target="6RB07m-3LFErhQ-v9S9f-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6RB07m-3LFErhQ-v9S9f-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6RB07m-3LFErhQ-v9S9f-4" target="6RB07m-3LFErhQ-v9S9f-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6RB07m-3LFErhQ-v9S9f-4" value="识别模块&#xa;人数识别 / 比例随机放大" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="64.5" width="238" height="77" as="geometry" />
+        </mxCell>
+        <mxCell id="6RB07m-3LFErhQ-v9S9f-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=17;" edge="1" parent="1" source="6RB07m-3LFErhQ-v9S9f-5" target="6RB07m-3LFErhQ-v9S9f-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6RB07m-3LFErhQ-v9S9f-22" value="扫描写入Redis" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;" vertex="1" connectable="0" parent="6RB07m-3LFErhQ-v9S9f-21">
+          <mxGeometry x="-0.1296" y="-1" relative="1" as="geometry">
+            <mxPoint x="2" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6RB07m-3LFErhQ-v9S9f-5" value="摄像头1" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="570" y="79" width="116" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="6RB07m-3LFErhQ-v9S9f-6" value="摄像头2" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="740" y="79" width="116" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="6RB07m-3LFErhQ-v9S9f-7" value="摄像头3" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="1034" y="79" width="116" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="6RB07m-3LFErhQ-v9S9f-8" value="摄像头..." style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="79" width="126" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="6RB07m-3LFErhQ-v9S9f-9" value="教室101" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="570" y="250" width="117" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="6RB07m-3LFErhQ-v9S9f-10" value="教室102" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="740" y="250" width="117" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="6RB07m-3LFErhQ-v9S9f-11" value="教室103" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="1034" y="250" width="117" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="6RB07m-3LFErhQ-v9S9f-12" value="教室..." style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="250" width="130" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="6RB07m-3LFErhQ-v9S9f-13" value="前端展示模块&#xa;获取教室人数数据" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="527.5" y="410" width="849" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="6RB07m-3LFErhQ-v9S9f-15" value="扫描写入Redis" style="curved=1;startArrow=none;endArrow=block;exitX=0.51;exitY=1;entryX=0.5;entryY=0.01;rounded=0;fontSize=17;" edge="1" parent="1" source="6RB07m-3LFErhQ-v9S9f-6" target="6RB07m-3LFErhQ-v9S9f-10">
+          <mxGeometry x="0.0033" relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6RB07m-3LFErhQ-v9S9f-16" value="扫描写入Redis" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;fontSize=17;" edge="1" parent="1" source="6RB07m-3LFErhQ-v9S9f-7" target="6RB07m-3LFErhQ-v9S9f-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6RB07m-3LFErhQ-v9S9f-17" value="扫描写入Redis" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;fontSize=17;" edge="1" parent="1" source="6RB07m-3LFErhQ-v9S9f-8" target="6RB07m-3LFErhQ-v9S9f-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6RB07m-3LFErhQ-v9S9f-18" value="" style="curved=1;startArrow=none;endArrow=block;rounded=0;fontSize=17;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="6RB07m-3LFErhQ-v9S9f-4" target="6RB07m-3LFErhQ-v9S9f-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6RB07m-3LFErhQ-v9S9f-19" value="获取数据" style="curved=1;startArrow=none;endArrow=block;rounded=0;fontSize=17;" edge="1" parent="1" source="6RB07m-3LFErhQ-v9S9f-13" target="6RB07m-3LFErhQ-v9S9f-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
