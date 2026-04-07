@@ -23,7 +23,7 @@
           <mxGeometry x="283" y="1115" width="55" height="34" as="geometry" />
         </mxCell>
         <mxCell id="D8eym_Mkc9hr2TtOsRwc-24" value="是否满足特征2?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="306" y="530" width="159" height="159" as="geometry" />
+          <mxGeometry x="306" y="520" width="159" height="80" as="geometry" />
         </mxCell>
         <mxCell id="D8eym_Mkc9hr2TtOsRwc-25" value="非人脸" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="178" y="1016" width="108" height="49" as="geometry" />
