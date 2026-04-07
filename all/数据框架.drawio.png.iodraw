@@ -50,10 +50,10 @@
         <mxCell id="6RB07m-3LFErhQ-v9S9f-6" value="摄像头2" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="740" y="79" width="116" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="6RB07m-3LFErhQ-v9S9f-7" value="摄像头3" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" parent="1" vertex="1">
+        <mxCell id="6RB07m-3LFErhQ-v9S9f-7" value="摄像头3" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="1034" y="79" width="116" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="6RB07m-3LFErhQ-v9S9f-8" value="摄像头..." style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" parent="1" vertex="1">
+        <mxCell id="6RB07m-3LFErhQ-v9S9f-8" value="摄像头..." style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="1200" y="79" width="126" height="48" as="geometry" />
         </mxCell>
         <mxCell id="6RB07m-3LFErhQ-v9S9f-9" value="教室101" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" parent="1" vertex="1">
@@ -123,11 +123,14 @@
         <mxCell id="xBqpuAuH8GetaW_o_PkW-12" value="摄像头2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="748" y="84.5" width="100" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="xBqpuAuH8GetaW_o_PkW-13" value="摄像头3" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="xBqpuAuH8GetaW_o_PkW-13" value="摄像头3" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="1042" y="84.5" width="100" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="xBqpuAuH8GetaW_o_PkW-14" value="摄像头..." style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="xBqpuAuH8GetaW_o_PkW-14" value="摄像头..." style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="1210" y="84.5" width="100" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="xBqpuAuH8GetaW_o_PkW-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.389;entryY=0.989;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="xBqpuAuH8GetaW_o_PkW-7" target="xBqpuAuH8GetaW_o_PkW-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
