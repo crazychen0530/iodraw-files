@@ -29,7 +29,7 @@
           <mxGeometry x="178" y="1016" width="108" height="49" as="geometry" />
         </mxCell>
         <mxCell id="D8eym_Mkc9hr2TtOsRwc-26" value="是否满足特征3?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="385" y="784" width="159" height="159" as="geometry" />
+          <mxGeometry x="386" y="760" width="159" height="86" as="geometry" />
         </mxCell>
         <mxCell id="D8eym_Mkc9hr2TtOsRwc-27" value="非人脸" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="336" y="1016" width="108" height="49" as="geometry" />
@@ -87,12 +87,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="D8eym_Mkc9hr2TtOsRwc-37" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;rounded=0;fontSize=17;exitDx=0;exitDy=0;" edge="1" parent="1" source="D8eym_Mkc9hr2TtOsRwc-24">
+        <mxCell id="D8eym_Mkc9hr2TtOsRwc-37" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.5;entryY=0;rounded=0;fontSize=17;exitDx=0;exitDy=0;" edge="1" parent="1" source="D8eym_Mkc9hr2TtOsRwc-24" target="D8eym_Mkc9hr2TtOsRwc-26">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="465" y="747" />
             </Array>
-            <mxPoint x="460" y="710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="D8eym_Mkc9hr2TtOsRwc-38" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.18;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;fontSize=17;" edge="1" parent="1" source="D8eym_Mkc9hr2TtOsRwc-26" target="D8eym_Mkc9hr2TtOsRwc-27">
