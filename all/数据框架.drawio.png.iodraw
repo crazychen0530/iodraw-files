@@ -123,8 +123,8 @@
         <mxCell id="xBqpuAuH8GetaW_o_PkW-12" value="摄像头2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="748" y="84.5" width="100" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="xBqpuAuH8GetaW_o_PkW-13" value="摄像头1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="598.5" y="104.5" width="100" height="37" as="geometry" />
+        <mxCell id="xBqpuAuH8GetaW_o_PkW-13" value="摄像头3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1042" y="84.5" width="100" height="37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
