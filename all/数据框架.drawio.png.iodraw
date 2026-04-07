@@ -99,7 +99,7 @@
         <mxCell id="xBqpuAuH8GetaW_o_PkW-3" value="摄像头分发模块" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="551" y="45" width="816" height="116" as="geometry" />
         </mxCell>
-        <mxCell id="xBqpuAuH8GetaW_o_PkW-6" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="xBqpuAuH8GetaW_o_PkW-6" value="springboot应用" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="857" y="210" width="183" height="30" as="geometry" />
         </mxCell>
       </root>
