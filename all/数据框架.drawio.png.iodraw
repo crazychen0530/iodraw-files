@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="6RB07m-3LFErhQ-v9S9f-1" value="" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" parent="1" vertex="1">
-          <mxGeometry x="531" y="20" width="850" height="337" as="geometry" />
+          <mxGeometry x="531" y="20" width="850" height="510" as="geometry" />
         </mxCell>
         <mxCell id="6RB07m-3LFErhQ-v9S9f-2" value="Redis教室人数缓存" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="551" y="233" width="802" height="98" as="geometry" />
