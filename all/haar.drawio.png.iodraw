@@ -19,6 +19,11 @@
         <mxCell id="9c9SPbcV6du_91TKZ6U2-5" value="组合为强分类器" style="whiteSpace=wrap;strokeWidth=1;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="160" y="229" width="156" height="48" as="geometry" />
         </mxCell>
+        <mxCell id="9c9SPbcV6du_91TKZ6U2-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="9c9SPbcV6du_91TKZ6U2-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="9c9SPbcV6du_91TKZ6U2-6" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=1;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="280" y="140" width="55" height="33" as="geometry" />
         </mxCell>
@@ -43,7 +48,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9c9SPbcV6du_91TKZ6U2-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.01;entryY=0.52;rounded=0;strokeWidth=1;fontSize=12;" edge="1" parent="1" source="9c9SPbcV6du_91TKZ6U2-5" target="9c9SPbcV6du_91TKZ6U2-6">
+        <mxCell id="9c9SPbcV6du_91TKZ6U2-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=0.01;entryY=0.52;rounded=0;strokeWidth=1;fontSize=12;exitDx=0;exitDy=0;" edge="1" parent="1" source="9c9SPbcV6du_91TKZ6U2-5" target="9c9SPbcV6du_91TKZ6U2-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
