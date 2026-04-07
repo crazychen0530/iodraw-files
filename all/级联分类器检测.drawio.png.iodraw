@@ -14,7 +14,7 @@
           <mxGeometry x="206" y="203" width="203" height="67" as="geometry" />
         </mxCell>
         <mxCell id="D8eym_Mkc9hr2TtOsRwc-21" value="是否满足特征1?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="227" y="319" width="159" height="159" as="geometry" />
+          <mxGeometry x="227" y="319" width="159" height="81" as="geometry" />
         </mxCell>
         <mxCell id="D8eym_Mkc9hr2TtOsRwc-22" value="非人脸" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="20" y="1016" width="108" height="49" as="geometry" />
