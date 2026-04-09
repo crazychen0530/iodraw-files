@@ -132,34 +132,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="e-ZtsUQkO07nN9zuQuXP-40" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.63;entryX=0.31;entryY=-0.01;rounded=0;" edge="1" parent="1" source="e-ZtsUQkO07nN9zuQuXP-14" target="e-ZtsUQkO07nN9zuQuXP-15">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="583" y="1198" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="e-ZtsUQkO07nN9zuQuXP-42" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.62;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="e-ZtsUQkO07nN9zuQuXP-14" target="e-ZtsUQkO07nN9zuQuXP-16">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1589" y="1198" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="e-ZtsUQkO07nN9zuQuXP-43" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.26;entryY=-0.01;rounded=0;" edge="1" parent="1" source="e-ZtsUQkO07nN9zuQuXP-16" target="e-ZtsUQkO07nN9zuQuXP-17">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1589" y="1309" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="e-ZtsUQkO07nN9zuQuXP-49" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.41;entryY=-0.01;rounded=0;" edge="1" parent="1" source="e-ZtsUQkO07nN9zuQuXP-20" target="e-ZtsUQkO07nN9zuQuXP-21">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1287" y="1198" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
