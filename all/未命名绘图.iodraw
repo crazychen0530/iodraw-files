@@ -33,14 +33,17 @@
         <mxCell id="QjKI0WkpCRNCmDrAQPjf-7" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="546" y="1601" width="55" height="34" as="geometry" />
         </mxCell>
+        <mxCell id="QjKI0WkpCRNCmDrAQPjf-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QjKI0WkpCRNCmDrAQPjf-8" target="QjKI0WkpCRNCmDrAQPjf-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="QjKI0WkpCRNCmDrAQPjf-8" value="系统弹出预约表单" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="210" y="450" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="QjKI0WkpCRNCmDrAQPjf-9" value="用户填写预约信息&#xa;预约日期、开始时间、结束时间、用途" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="190" y="543" width="252" height="84" as="geometry" />
+          <mxGeometry x="178" y="530" width="252" height="84" as="geometry" />
         </mxCell>
         <mxCell id="QjKI0WkpCRNCmDrAQPjf-10" value="用户提交预约申请" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="309" y="853" width="188" height="49" as="geometry" />
+          <mxGeometry x="210" y="640" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="QjKI0WkpCRNCmDrAQPjf-11" value="系统校验预约信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="309" y="952" width="188" height="49" as="geometry" />
