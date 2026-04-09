@@ -221,9 +221,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="e-ZtsUQkO07nN9zuQuXP-93" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="e-ZtsUQkO07nN9zuQuXP-92">
+        <mxCell id="e-ZtsUQkO07nN9zuQuXP-93" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="e-ZtsUQkO07nN9zuQuXP-92">
           <mxGeometry x="-0.2198" y="1" relative="1" as="geometry">
-            <mxPoint x="-51" y="20" as="offset" />
+            <mxPoint x="-3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="e-ZtsUQkO07nN9zuQuXP-23" value="是否继续管理" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
