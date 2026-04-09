@@ -211,6 +211,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="e-ZtsUQkO07nN9zuQuXP-90" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="e-ZtsUQkO07nN9zuQuXP-89">
+          <mxGeometry x="-0.8528" y="2" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="e-ZtsUQkO07nN9zuQuXP-23" value="是否继续管理" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1000" y="990" width="145" height="70" as="geometry" />
         </mxCell>
