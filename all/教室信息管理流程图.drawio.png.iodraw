@@ -116,6 +116,9 @@
         <mxCell id="e-ZtsUQkO07nN9zuQuXP-20" value="删除教室信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1209" y="1049" width="156" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="e-ZtsUQkO07nN9zuQuXP-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="e-ZtsUQkO07nN9zuQuXP-21" target="e-ZtsUQkO07nN9zuQuXP-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="e-ZtsUQkO07nN9zuQuXP-21" value="刷新并展示最新教室列表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="982" y="900" width="236" height="49" as="geometry" />
         </mxCell>
