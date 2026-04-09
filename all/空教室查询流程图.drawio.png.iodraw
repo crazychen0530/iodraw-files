@@ -129,6 +129,9 @@
             <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="rvhn2ySkVJy7Qy47DztY-2" value="返回结果是否为空?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="405.5" y="1140" width="183" height="90" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
