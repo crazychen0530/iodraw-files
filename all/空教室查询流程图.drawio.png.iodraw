@@ -22,14 +22,6 @@
         <mxCell id="G2ipmSTG7ajfccKOAm9C-5" value="点击“查询”" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="442.5" y="440" width="141" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="G2ipmSTG7ajfccKOAm9C-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fontSize=15;" parent="1" source="G2ipmSTG7ajfccKOAm9C-6" target="G2ipmSTG7ajfccKOAm9C-7" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="G2ipmSTG7ajfccKOAm9C-40" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" parent="G2ipmSTG7ajfccKOAm9C-37" vertex="1" connectable="0">
-          <mxGeometry x="0.5995" relative="1" as="geometry">
-            <mxPoint y="1" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="G2ipmSTG7ajfccKOAm9C-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;" parent="1" source="G2ipmSTG7ajfccKOAm9C-6" target="G2ipmSTG7ajfccKOAm9C-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -41,11 +33,10 @@
         <mxCell id="G2ipmSTG7ajfccKOAm9C-6" value="是否填写筛选条件?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="422" y="540" width="183" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="G2ipmSTG7ajfccKOAm9C-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;" parent="1" source="G2ipmSTG7ajfccKOAm9C-7" target="G2ipmSTG7ajfccKOAm9C-9" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="G2ipmSTG7ajfccKOAm9C-7" value="按默认条件查询全部可用空教室" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="530" y="670" width="252" height="67" as="geometry" />
+        <mxCell id="G2ipmSTG7ajfccKOAm9C-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;" parent="1" target="G2ipmSTG7ajfccKOAm9C-9" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="656" y="737.0000000000002" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="G2ipmSTG7ajfccKOAm9C-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;" parent="1" source="G2ipmSTG7ajfccKOAm9C-8" target="G2ipmSTG7ajfccKOAm9C-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
