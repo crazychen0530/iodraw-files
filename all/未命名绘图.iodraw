@@ -59,6 +59,11 @@
         <mxCell id="QjKI0WkpCRNCmDrAQPjf-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QjKI0WkpCRNCmDrAQPjf-12" target="QjKI0WkpCRNCmDrAQPjf-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="QjKI0WkpCRNCmDrAQPjf-42" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QjKI0WkpCRNCmDrAQPjf-41">
+          <mxGeometry x="0.0855" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="QjKI0WkpCRNCmDrAQPjf-12" value="校验是否通过" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="231.5" y="810" width="145" height="60" as="geometry" />
         </mxCell>
@@ -67,6 +72,9 @@
         </mxCell>
         <mxCell id="QjKI0WkpCRNCmDrAQPjf-13" value="提示失败原因&#xa;时间冲突/信息不完整/参数无效" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="80" y="910" width="183" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QjKI0WkpCRNCmDrAQPjf-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QjKI0WkpCRNCmDrAQPjf-14" target="QjKI0WkpCRNCmDrAQPjf-15">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QjKI0WkpCRNCmDrAQPjf-14" value="系统生成预约记录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="310" y="911" width="188" height="49" as="geometry" />
@@ -122,11 +130,6 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QjKI0WkpCRNCmDrAQPjf-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="QjKI0WkpCRNCmDrAQPjf-11" target="QjKI0WkpCRNCmDrAQPjf-12">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="QjKI0WkpCRNCmDrAQPjf-31" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="QjKI0WkpCRNCmDrAQPjf-14" target="QjKI0WkpCRNCmDrAQPjf-15">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
