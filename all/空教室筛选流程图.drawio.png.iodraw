@@ -22,6 +22,9 @@
         <mxCell id="G2ipmSTG7ajfccKOAm9C-5" value="点击“查询”" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="443" y="460" width="141" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="G2ipmSTG7ajfccKOAm9C-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="G2ipmSTG7ajfccKOAm9C-6" target="G2ipmSTG7ajfccKOAm9C-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="G2ipmSTG7ajfccKOAm9C-6" value="是否填写筛选条件?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="422" y="540" width="183" height="90" as="geometry" />
         </mxCell>
@@ -73,13 +76,6 @@
         <mxCell id="G2ipmSTG7ajfccKOAm9C-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="G2ipmSTG7ajfccKOAm9C-5" target="G2ipmSTG7ajfccKOAm9C-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="G2ipmSTG7ajfccKOAm9C-22" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="G2ipmSTG7ajfccKOAm9C-6" target="G2ipmSTG7ajfccKOAm9C-7">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="352" y="754" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="G2ipmSTG7ajfccKOAm9C-23" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="G2ipmSTG7ajfccKOAm9C-6" target="G2ipmSTG7ajfccKOAm9C-8">
