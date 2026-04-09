@@ -47,7 +47,7 @@
           <mxGeometry x="409" y="1757" width="55" height="34" as="geometry" />
         </mxCell>
         <mxCell id="4fG31r07575Blq7P5JTx-14" value="点击“立即注册”" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="667" y="771" width="173" height="49" as="geometry" />
+          <mxGeometry x="421" y="670" width="173" height="49" as="geometry" />
         </mxCell>
         <mxCell id="4fG31r07575Blq7P5JTx-15" value="填写注册信息&#xa;用户名/密码/手机号" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="624" y="870" width="259" height="67" as="geometry" />
