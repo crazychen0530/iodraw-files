@@ -95,11 +95,14 @@
         <mxCell id="e-ZtsUQkO07nN9zuQuXP-11" value="刷新并展示最新教室列表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="575" y="1334" width="236" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="e-ZtsUQkO07nN9zuQuXP-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="e-ZtsUQkO07nN9zuQuXP-12" target="e-ZtsUQkO07nN9zuQuXP-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="e-ZtsUQkO07nN9zuQuXP-12" value="选择目标教室并编辑信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1192.5" y="411" width="170" height="49" as="geometry" />
         </mxCell>
         <mxCell id="e-ZtsUQkO07nN9zuQuXP-13" value="提交修改请求" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1206.5" y="800" width="156" height="49" as="geometry" />
+          <mxGeometry x="1200" y="800" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="e-ZtsUQkO07nN9zuQuXP-14" value="信息校验是否通过" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="982" y="985" width="177" height="177" as="geometry" />
