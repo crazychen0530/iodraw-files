@@ -80,6 +80,9 @@
         <mxCell id="e-ZtsUQkO07nN9zuQuXP-9" value="提示校验失败并返回编辑" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="980" y="730" width="236" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="e-ZtsUQkO07nN9zuQuXP-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="e-ZtsUQkO07nN9zuQuXP-10" target="e-ZtsUQkO07nN9zuQuXP-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="e-ZtsUQkO07nN9zuQuXP-10" value="保存新增教室信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1004" y="815" width="188" height="49" as="geometry" />
         </mxCell>
@@ -120,7 +123,7 @@
           <mxGeometry x="1020" y="390" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="e-ZtsUQkO07nN9zuQuXP-23" value="是否继续管理" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="767" y="767" width="145" height="145" as="geometry" />
+          <mxGeometry x="650" y="790" width="145" height="145" as="geometry" />
         </mxCell>
         <mxCell id="e-ZtsUQkO07nN9zuQuXP-24" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="812" y="1056" width="55" height="34" as="geometry" />
