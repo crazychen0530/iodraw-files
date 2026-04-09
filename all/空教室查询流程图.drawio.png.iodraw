@@ -171,6 +171,19 @@
         <mxCell id="rvhn2ySkVJy7Qy47DztY-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rvhn2ySkVJy7Qy47DztY-19" target="G2ipmSTG7ajfccKOAm9C-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="rvhn2ySkVJy7Qy47DztY-23" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="rvhn2ySkVJy7Qy47DztY-22">
+          <mxGeometry x="-0.7428" y="-2" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rvhn2ySkVJy7Qy47DztY-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="rvhn2ySkVJy7Qy47DztY-19" target="G2ipmSTG7ajfccKOAm9C-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rvhn2ySkVJy7Qy47DztY-25" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rvhn2ySkVJy7Qy47DztY-24">
+          <mxGeometry x="-0.7651" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="rvhn2ySkVJy7Qy47DztY-19" value="是否继续查询其他条件" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="860" y="1290" width="183" height="100" as="geometry" />
         </mxCell>
