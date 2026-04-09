@@ -46,10 +46,10 @@
           <mxGeometry x="210" y="640" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="QjKI0WkpCRNCmDrAQPjf-11" value="系统校验预约信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="309" y="952" width="188" height="49" as="geometry" />
+          <mxGeometry x="210" y="730" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="QjKI0WkpCRNCmDrAQPjf-12" value="校验是否通过" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="330" y="1051" width="145" height="145" as="geometry" />
+          <mxGeometry x="231.5" y="810" width="145" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QjKI0WkpCRNCmDrAQPjf-13" value="提示失败原因&#xa;时间冲突/信息不完整/参数无效" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="1269" width="259" height="67" as="geometry" />
