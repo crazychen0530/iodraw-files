@@ -42,10 +42,10 @@
           <mxGeometry x="1012.5" y="470" width="171" height="60" as="geometry" />
         </mxCell>
         <mxCell id="e-ZtsUQkO07nN9zuQuXP-7" value="提交新增请求" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="30" y="815" width="156" height="49" as="geometry" />
+          <mxGeometry x="850" y="610" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="e-ZtsUQkO07nN9zuQuXP-8" value="信息校验是否通过" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="20" y="985" width="177" height="177" as="geometry" />
+          <mxGeometry x="398" y="830" width="177" height="177" as="geometry" />
         </mxCell>
         <mxCell id="e-ZtsUQkO07nN9zuQuXP-9" value="提示校验失败并返回编辑" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="52" y="1235" width="236" height="49" as="geometry" />
