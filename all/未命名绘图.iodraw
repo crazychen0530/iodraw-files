@@ -37,7 +37,7 @@
           <mxGeometry x="210" y="450" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="QjKI0WkpCRNCmDrAQPjf-9" value="用户填写预约信息&#xa;预约日期、开始时间、结束时间、用途" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="277" y="719" width="252" height="84" as="geometry" />
+          <mxGeometry x="190" y="543" width="252" height="84" as="geometry" />
         </mxCell>
         <mxCell id="QjKI0WkpCRNCmDrAQPjf-10" value="用户提交预约申请" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="309" y="853" width="188" height="49" as="geometry" />
