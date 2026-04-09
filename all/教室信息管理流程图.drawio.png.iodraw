@@ -114,7 +114,7 @@
           <mxGeometry x="1209" y="1049" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="e-ZtsUQkO07nN9zuQuXP-21" value="刷新并展示最新教室列表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1225" y="1235" width="236" height="49" as="geometry" />
+          <mxGeometry x="982" y="900" width="236" height="49" as="geometry" />
         </mxCell>
         <mxCell id="e-ZtsUQkO07nN9zuQuXP-22" value="浏览教室信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1020" y="390" width="156" height="49" as="geometry" />
