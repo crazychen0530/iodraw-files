@@ -81,7 +81,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4fG31r07575Blq7P5JTx-18" value="提示注册失败原因&#xa;如用户名已存在/参数错误" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="370" y="1180" width="220" height="67" as="geometry" />
+          <mxGeometry x="371.5" y="1180" width="210" height="67" as="geometry" />
         </mxCell>
         <mxCell id="4fG31r07575Blq7P5JTx-19" value="创建用户账号成功" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="929" y="1453" width="188" height="49" as="geometry" />
