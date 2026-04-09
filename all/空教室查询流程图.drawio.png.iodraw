@@ -163,7 +163,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rvhn2ySkVJy7Qy47DztY-9" value="调用 GET /api/peoplecount?roomNumber=xxx" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="570" y="1290" width="272" height="49" as="geometry" />
+          <mxGeometry x="528.5" y="1260" width="272" height="49" as="geometry" />
         </mxCell>
         <mxCell id="rvhn2ySkVJy7Qy47DztY-15" value="更新该教室当前人数显示" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="570" y="1380" width="272" height="49" as="geometry" />
