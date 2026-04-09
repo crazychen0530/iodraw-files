@@ -25,6 +25,14 @@
         <mxCell id="e18dcCvAtqXNNOI8VP0e-46" value="用户发起人数查询" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="197" y="634" width="188" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="e18dcCvAtqXNNOI8VP0e-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="e18dcCvAtqXNNOI8VP0e-47" target="e18dcCvAtqXNNOI8VP0e-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e18dcCvAtqXNNOI8VP0e-67" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="e18dcCvAtqXNNOI8VP0e-66">
+          <mxGeometry x="0.1364" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="e18dcCvAtqXNNOI8VP0e-47" value="查询是否成功" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="219" y="733" width="145" height="57" as="geometry" />
         </mxCell>
