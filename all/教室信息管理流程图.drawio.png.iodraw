@@ -48,10 +48,10 @@
           <mxGeometry x="1020" y="560" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="e-ZtsUQkO07nN9zuQuXP-8" value="信息校验是否通过" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="398" y="830" width="177" height="177" as="geometry" />
+          <mxGeometry x="1009.5" y="626" width="177" height="177" as="geometry" />
         </mxCell>
         <mxCell id="e-ZtsUQkO07nN9zuQuXP-9" value="提示校验失败并返回编辑" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="440" y="1049" width="236" height="49" as="geometry" />
+          <mxGeometry x="610" y="1000" width="236" height="49" as="geometry" />
         </mxCell>
         <mxCell id="e-ZtsUQkO07nN9zuQuXP-10" value="保存新增教室信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="338" y="1235" width="188" height="49" as="geometry" />
@@ -78,7 +78,7 @@
           <mxGeometry x="1584" y="1334" width="236" height="49" as="geometry" />
         </mxCell>
         <mxCell id="e-ZtsUQkO07nN9zuQuXP-18" value="选择目标教室并确认删除" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1075" y="659" width="236" height="49" as="geometry" />
+          <mxGeometry x="1380" y="690" width="236" height="49" as="geometry" />
         </mxCell>
         <mxCell id="e-ZtsUQkO07nN9zuQuXP-19" value="是否确认删除" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1214" y="767" width="145" height="145" as="geometry" />
