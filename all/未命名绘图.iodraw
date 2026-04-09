@@ -73,9 +73,6 @@
         <mxCell id="QjKI0WkpCRNCmDrAQPjf-13" value="提示失败原因&#xa;时间冲突/信息不完整/参数无效" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="80" y="910" width="183" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="QjKI0WkpCRNCmDrAQPjf-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QjKI0WkpCRNCmDrAQPjf-14" target="QjKI0WkpCRNCmDrAQPjf-15">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="QjKI0WkpCRNCmDrAQPjf-14" value="系统生成预约记录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="310" y="911" width="188" height="49" as="geometry" />
         </mxCell>
