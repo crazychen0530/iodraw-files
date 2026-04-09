@@ -82,6 +82,14 @@
         <mxCell id="G2ipmSTG7ajfccKOAm9C-15" value="页面渲染空教室列表\n教师号/校区/楼层/容量/当前人数" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="634.5" y="1000" width="259" height="84" as="geometry" />
         </mxCell>
+        <mxCell id="rvhn2ySkVJy7Qy47DztY-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="G2ipmSTG7ajfccKOAm9C-16" target="rvhn2ySkVJy7Qy47DztY-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rvhn2ySkVJy7Qy47DztY-14" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="rvhn2ySkVJy7Qy47DztY-13">
+          <mxGeometry x="0.2317" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="G2ipmSTG7ajfccKOAm9C-16" value="用户是否查看实时人数?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="672.5" y="1140" width="183" height="100" as="geometry" />
         </mxCell>
@@ -145,9 +153,6 @@
         </mxCell>
         <mxCell id="rvhn2ySkVJy7Qy47DztY-9" value="调用 GET /api/peoplecount?roomNumber=xxx" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="570" y="1290" width="272" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="rvhn2ySkVJy7Qy47DztY-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.476;entryY=0.238;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="G2ipmSTG7ajfccKOAm9C-16" target="rvhn2ySkVJy7Qy47DztY-9">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
