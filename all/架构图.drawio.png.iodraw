@@ -51,7 +51,7 @@
           <mxGeometry y="990" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="4fG31r07575Blq7P5JTx-9" value="成功登录账号&#xa;保存Token与用户信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="64" y="1220" width="260" height="67" as="geometry" />
+          <mxGeometry x="64" y="1060" width="260" height="67" as="geometry" />
         </mxCell>
         <mxCell id="4fG31r07575Blq7P5JTx-10" value="用户角色是否为管理员?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="329" y="1370" width="215" height="215" as="geometry" />
