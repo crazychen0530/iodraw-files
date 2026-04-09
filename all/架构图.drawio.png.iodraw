@@ -65,6 +65,9 @@
         <mxCell id="4fG31r07575Blq7P5JTx-14" value="点击“立即注册”" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="390" y="660" width="173" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="4fG31r07575Blq7P5JTx-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4fG31r07575Blq7P5JTx-15" target="4fG31r07575Blq7P5JTx-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4fG31r07575Blq7P5JTx-15" value="填写注册信息&#xa;用户名/密码/手机号" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="381.75" y="800" width="189.5" height="49" as="geometry" />
         </mxCell>
@@ -72,7 +75,7 @@
           <mxGeometry x="376.5" y="900" width="200" height="49" as="geometry" />
         </mxCell>
         <mxCell id="4fG31r07575Blq7P5JTx-17" value="注册成功?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="425.5" y="1110" width="119" height="119" as="geometry" />
+          <mxGeometry x="417" y="1000" width="119" height="119" as="geometry" />
         </mxCell>
         <mxCell id="4fG31r07575Blq7P5JTx-18" value="提示注册失败原因&#xa;如用户名已存在/参数错误" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="629" y="1444" width="250" height="67" as="geometry" />
