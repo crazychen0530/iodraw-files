@@ -84,7 +84,7 @@
           <mxGeometry x="371.5" y="1180" width="210" height="67" as="geometry" />
         </mxCell>
         <mxCell id="4fG31r07575Blq7P5JTx-19" value="创建用户账号成功" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="929" y="1453" width="188" height="49" as="geometry" />
+          <mxGeometry x="880" y="1330" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="4fG31r07575Blq7P5JTx-20" value="跳转登录页面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1010" y="1658" width="156" height="49" as="geometry" />
