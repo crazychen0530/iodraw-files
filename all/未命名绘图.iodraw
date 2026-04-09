@@ -17,7 +17,7 @@
           <mxGeometry x="310" y="250" width="252" height="67" as="geometry" />
         </mxCell>
         <mxCell id="QjKI0WkpCRNCmDrAQPjf-5" value="是否已登录" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="373" y="350" width="129" height="52" as="geometry" />
+          <mxGeometry x="372.5" y="360" width="129" height="52" as="geometry" />
         </mxCell>
         <mxCell id="QjKI0WkpCRNCmDrAQPjf-6" value="提示请先登录并跳转登录页面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="599" y="1484" width="252" height="67" as="geometry" />
@@ -83,13 +83,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="725" y="1576" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="QjKI0WkpCRNCmDrAQPjf-23" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.83;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="QjKI0WkpCRNCmDrAQPjf-5" target="QjKI0WkpCRNCmDrAQPjf-8">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="286" y="584" />
             </Array>
           </mxGeometry>
         </mxCell>
