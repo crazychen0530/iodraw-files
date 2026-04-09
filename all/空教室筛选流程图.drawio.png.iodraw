@@ -41,6 +41,9 @@
         <mxCell id="G2ipmSTG7ajfccKOAm9C-6" value="是否填写筛选条件?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="422" y="540" width="183" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="G2ipmSTG7ajfccKOAm9C-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="G2ipmSTG7ajfccKOAm9C-7" target="G2ipmSTG7ajfccKOAm9C-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="G2ipmSTG7ajfccKOAm9C-7" value="按默认条件查询全部可用空教室" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="530" y="670" width="252" height="67" as="geometry" />
         </mxCell>
