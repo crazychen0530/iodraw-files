@@ -58,6 +58,9 @@
             <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="e-ZtsUQkO07nN9zuQuXP-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="e-ZtsUQkO07nN9zuQuXP-8" target="e-ZtsUQkO07nN9zuQuXP-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="e-ZtsUQkO07nN9zuQuXP-8" value="信息校验是否通过" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1009.5" y="626" width="177" height="64" as="geometry" />
         </mxCell>
@@ -68,7 +71,7 @@
           <mxGeometry x="980" y="730" width="236" height="49" as="geometry" />
         </mxCell>
         <mxCell id="e-ZtsUQkO07nN9zuQuXP-10" value="保存新增教室信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="912" y="890" width="188" height="49" as="geometry" />
+          <mxGeometry x="1004" y="815" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="e-ZtsUQkO07nN9zuQuXP-11" value="刷新并展示最新教室列表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="575" y="1334" width="236" height="49" as="geometry" />
