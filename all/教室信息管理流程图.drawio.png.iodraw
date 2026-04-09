@@ -105,7 +105,7 @@
           <mxGeometry x="1200" y="800" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="e-ZtsUQkO07nN9zuQuXP-14" value="信息校验是否通过" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="982" y="985" width="177" height="177" as="geometry" />
+          <mxGeometry x="982" y="985" width="177" height="75" as="geometry" />
         </mxCell>
         <mxCell id="e-ZtsUQkO07nN9zuQuXP-15" value="提示校验失败并返回编辑" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="576" y="1235" width="236" height="49" as="geometry" />
