@@ -93,7 +93,7 @@
           <mxGeometry x="575" y="1334" width="236" height="49" as="geometry" />
         </mxCell>
         <mxCell id="e-ZtsUQkO07nN9zuQuXP-12" value="选择目标教室并编辑信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="580" y="481" width="236" height="49" as="geometry" />
+          <mxGeometry x="1192.5" y="411" width="170" height="49" as="geometry" />
         </mxCell>
         <mxCell id="e-ZtsUQkO07nN9zuQuXP-13" value="提交修改请求" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1410" y="880" width="156" height="49" as="geometry" />
