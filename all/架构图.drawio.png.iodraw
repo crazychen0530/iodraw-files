@@ -69,7 +69,7 @@
           <mxGeometry x="381.75" y="800" width="189.5" height="49" as="geometry" />
         </mxCell>
         <mxCell id="4fG31r07575Blq7P5JTx-16" value="提交注册请求" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="409" y="900" width="156" height="49" as="geometry" />
+          <mxGeometry x="380" y="900" width="185" height="49" as="geometry" />
         </mxCell>
         <mxCell id="4fG31r07575Blq7P5JTx-17" value="注册成功?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="425.5" y="1110" width="119" height="119" as="geometry" />
@@ -198,9 +198,6 @@
           <mxGeometry x="-0.3089" y="4" relative="1" as="geometry">
             <mxPoint x="-4" y="-4" as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="4fG31r07575Blq7P5JTx-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.44;entryY=0.019;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="4fG31r07575Blq7P5JTx-15" target="4fG31r07575Blq7P5JTx-16">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4fG31r07575Blq7P5JTx-55" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.02;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="4fG31r07575Blq7P5JTx-10" target="4fG31r07575Blq7P5JTx-12">
           <mxGeometry relative="1" as="geometry">
