@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="gE6hahc7s08DQRzvntDt">
-    <mxGraphModel dx="3468" dy="1968" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1734" dy="984" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -89,13 +89,6 @@
         <mxCell id="e-ZtsUQkO07nN9zuQuXP-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="e-ZtsUQkO07nN9zuQuXP-3" target="e-ZtsUQkO07nN9zuQuXP-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="e-ZtsUQkO07nN9zuQuXP-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.68;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="e-ZtsUQkO07nN9zuQuXP-4" target="e-ZtsUQkO07nN9zuQuXP-5">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="630" y="376" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="e-ZtsUQkO07nN9zuQuXP-29" value="新增教室" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.63;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="e-ZtsUQkO07nN9zuQuXP-5" target="e-ZtsUQkO07nN9zuQuXP-6">
@@ -198,13 +191,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1589" y="1309" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="e-ZtsUQkO07nN9zuQuXP-44" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=-0.01;entryX=1;entryY=0.77;rounded=0;" edge="1" parent="1" source="e-ZtsUQkO07nN9zuQuXP-17" target="e-ZtsUQkO07nN9zuQuXP-4">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1702" y="376" />
             </Array>
           </mxGeometry>
         </mxCell>
