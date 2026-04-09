@@ -33,6 +33,9 @@
         <mxCell id="4fG31r07575Blq7P5JTx-6" value="系统校验账号信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="100" y="800" width="188" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="4fG31r07575Blq7P5JTx-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4fG31r07575Blq7P5JTx-7" target="4fG31r07575Blq7P5JTx-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4fG31r07575Blq7P5JTx-7" value="校验成功?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="134.5" y="887" width="119" height="50" as="geometry" />
         </mxCell>
@@ -93,14 +96,6 @@
         <mxCell id="4fG31r07575Blq7P5JTx-26" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="4fG31r07575Blq7P5JTx-6" target="4fG31r07575Blq7P5JTx-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="4fG31r07575Blq7P5JTx-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.68;exitY=0.01;entryX=0.39;entryY=0.99;rounded=0;" edge="1" parent="1" source="4fG31r07575Blq7P5JTx-8" target="4fG31r07575Blq7P5JTx-3">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="292" y="1142" />
-              <mxPoint x="292" y="507" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="4fG31r07575Blq7P5JTx-29" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0.65;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="4fG31r07575Blq7P5JTx-7" target="4fG31r07575Blq7P5JTx-9">
