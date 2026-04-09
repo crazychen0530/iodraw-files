@@ -57,7 +57,7 @@
           <mxGeometry x="398.5" y="850" width="229" height="67" as="geometry" />
         </mxCell>
         <mxCell id="G2ipmSTG7ajfccKOAm9C-10" value="请求是否成功?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="150" y="1023" width="151" height="151" as="geometry" />
+          <mxGeometry x="438" y="980" width="151" height="151" as="geometry" />
         </mxCell>
         <mxCell id="G2ipmSTG7ajfccKOAm9C-11" value="提示“查询失败，请稍后再试”" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="183" y="1305" width="244" height="67" as="geometry" />
