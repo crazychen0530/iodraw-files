@@ -47,7 +47,7 @@
           <mxGeometry x="409" y="1757" width="55" height="34" as="geometry" />
         </mxCell>
         <mxCell id="4fG31r07575Blq7P5JTx-14" value="点击“立即注册”" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="421" y="670" width="173" height="49" as="geometry" />
+          <mxGeometry x="390" y="660" width="173" height="49" as="geometry" />
         </mxCell>
         <mxCell id="4fG31r07575Blq7P5JTx-15" value="填写注册信息&#xa;用户名/密码/手机号" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="624" y="870" width="259" height="67" as="geometry" />
@@ -144,13 +144,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="597" y="1732" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="4fG31r07575Blq7P5JTx-35" value="未注册" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.59;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="4fG31r07575Blq7P5JTx-4" target="4fG31r07575Blq7P5JTx-14">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="754" y="735" />
             </Array>
           </mxGeometry>
         </mxCell>
