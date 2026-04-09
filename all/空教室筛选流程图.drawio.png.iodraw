@@ -29,7 +29,7 @@
           <mxGeometry x="422" y="540" width="183" height="90" as="geometry" />
         </mxCell>
         <mxCell id="G2ipmSTG7ajfccKOAm9C-7" value="按默认条件查询全部可用空教室" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="440" y="799" width="252" height="67" as="geometry" />
+          <mxGeometry x="530" y="670" width="252" height="67" as="geometry" />
         </mxCell>
         <mxCell id="G2ipmSTG7ajfccKOAm9C-8" value="组装查询参数" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="799" width="156" height="49" as="geometry" />
