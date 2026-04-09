@@ -210,7 +210,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4fG31r07575Blq7P5JTx-12" value="跳转首页 index.html" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="340" y="1609" width="207" height="49" as="geometry" />
+          <mxGeometry x="430" y="1590" width="207" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
