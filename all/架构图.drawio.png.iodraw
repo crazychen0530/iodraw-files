@@ -75,10 +75,10 @@
           <mxGeometry x="376.5" y="900" width="200" height="49" as="geometry" />
         </mxCell>
         <mxCell id="4fG31r07575Blq7P5JTx-17" value="注册成功?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="417" y="1000" width="119" height="119" as="geometry" />
+          <mxGeometry x="417" y="990" width="119" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4fG31r07575Blq7P5JTx-18" value="提示注册失败原因&#xa;如用户名已存在/参数错误" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="629" y="1444" width="250" height="67" as="geometry" />
+          <mxGeometry x="370" y="1180" width="250" height="67" as="geometry" />
         </mxCell>
         <mxCell id="4fG31r07575Blq7P5JTx-19" value="创建用户账号成功" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="929" y="1453" width="188" height="49" as="geometry" />
