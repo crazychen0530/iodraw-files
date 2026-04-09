@@ -57,10 +57,10 @@
           <mxGeometry x="398.5" y="850" width="229" height="67" as="geometry" />
         </mxCell>
         <mxCell id="G2ipmSTG7ajfccKOAm9C-10" value="请求是否成功?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="438" y="980" width="151" height="151" as="geometry" />
+          <mxGeometry x="438" y="980" width="151" height="80" as="geometry" />
         </mxCell>
         <mxCell id="G2ipmSTG7ajfccKOAm9C-11" value="提示“查询失败，请稍后再试”" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="183" y="1305" width="244" height="67" as="geometry" />
+          <mxGeometry x="240" y="1150" width="244" height="67" as="geometry" />
         </mxCell>
         <mxCell id="G2ipmSTG7ajfccKOAm9C-12" value="返回结果是否为空?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="568" y="1247" width="183" height="183" as="geometry" />
@@ -100,13 +100,6 @@
         <mxCell id="G2ipmSTG7ajfccKOAm9C-26" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="G2ipmSTG7ajfccKOAm9C-9" target="G2ipmSTG7ajfccKOAm9C-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="G2ipmSTG7ajfccKOAm9C-27" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.42;entryY=0;rounded=0;" edge="1" parent="1" source="G2ipmSTG7ajfccKOAm9C-10" target="G2ipmSTG7ajfccKOAm9C-11">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="225" y="1211" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="G2ipmSTG7ajfccKOAm9C-29" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.63;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="G2ipmSTG7ajfccKOAm9C-10" target="G2ipmSTG7ajfccKOAm9C-12">
