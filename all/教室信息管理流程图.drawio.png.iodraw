@@ -35,6 +35,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="e-ZtsUQkO07nN9zuQuXP-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="e-ZtsUQkO07nN9zuQuXP-5" target="e-ZtsUQkO07nN9zuQuXP-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="e-ZtsUQkO07nN9zuQuXP-5" value="管理员选择的操作" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1189.5" y="320" width="177" height="60" as="geometry" />
         </mxCell>
@@ -108,10 +111,10 @@
           <mxGeometry x="1584" y="1334" width="236" height="49" as="geometry" />
         </mxCell>
         <mxCell id="e-ZtsUQkO07nN9zuQuXP-18" value="选择目标教室并确认删除" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1440" y="331" width="160" height="49" as="geometry" />
+          <mxGeometry x="1396" y="325.5" width="160" height="49" as="geometry" />
         </mxCell>
         <mxCell id="e-ZtsUQkO07nN9zuQuXP-19" value="是否确认删除" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1214" y="767" width="145" height="145" as="geometry" />
+          <mxGeometry x="1403.5" y="390" width="145" height="145" as="geometry" />
         </mxCell>
         <mxCell id="e-ZtsUQkO07nN9zuQuXP-20" value="删除教室信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1209" y="1049" width="156" height="49" as="geometry" />
