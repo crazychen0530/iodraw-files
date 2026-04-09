@@ -165,6 +165,9 @@
         <mxCell id="rvhn2ySkVJy7Qy47DztY-15" value="更新该教室当前人数显示" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="570" y="1380" width="272" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="rvhn2ySkVJy7Qy47DztY-19" value="用户是否查看实时人数?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="860" y="1290" width="183" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
