@@ -96,7 +96,7 @@
           <mxGeometry x="714" y="1893" width="55" height="34" as="geometry" />
         </mxCell>
         <mxCell id="G2ipmSTG7ajfccKOAm9C-15" value="展示空教室列表&#xa;教室号/校区/教学楼/楼层/容量/当前人数" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="648" y="1503" width="259" height="84" as="geometry" />
+          <mxGeometry x="643" y="1282.5" width="259" height="84" as="geometry" />
         </mxCell>
         <mxCell id="G2ipmSTG7ajfccKOAm9C-16" value="用户是否继续筛选?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="769" y="1637" width="183" height="183" as="geometry" />
@@ -130,13 +130,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="573" y="1856" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="G2ipmSTG7ajfccKOAm9C-32" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.96;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="G2ipmSTG7ajfccKOAm9C-12" target="G2ipmSTG7ajfccKOAm9C-15">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="778" y="1466" />
             </Array>
           </mxGeometry>
         </mxCell>
