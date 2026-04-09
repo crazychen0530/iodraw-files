@@ -14,10 +14,10 @@
           <mxGeometry x="326" y="160" width="220" height="49" as="geometry" />
         </mxCell>
         <mxCell id="QjKI0WkpCRNCmDrAQPjf-4" value="用户选择目标教室并点击预约" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="311" y="302" width="252" height="67" as="geometry" />
+          <mxGeometry x="310" y="250" width="252" height="67" as="geometry" />
         </mxCell>
         <mxCell id="QjKI0WkpCRNCmDrAQPjf-5" value="是否已登录" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="373" y="418" width="129" height="52" as="geometry" />
+          <mxGeometry x="373" y="350" width="129" height="52" as="geometry" />
         </mxCell>
         <mxCell id="QjKI0WkpCRNCmDrAQPjf-6" value="提示请先登录并跳转登录页面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="599" y="1484" width="252" height="67" as="geometry" />
