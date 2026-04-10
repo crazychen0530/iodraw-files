@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="AMK8Q_F3SEfojcBMk4PU-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shape=link;" edge="1" parent="1" source="AMK8Q_F3SEfojcBMk4PU-1" target="AMK8Q_F3SEfojcBMk4PU-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="AMK8Q_F3SEfojcBMk4PU-1" value="摄像头表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="60" width="120" height="60" as="geometry" />
         </mxCell>
