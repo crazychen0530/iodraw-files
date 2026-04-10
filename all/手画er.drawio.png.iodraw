@@ -40,8 +40,14 @@
         <mxCell id="AMK8Q_F3SEfojcBMk4PU-9" value="被预约" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="370" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="AMK8Q_F3SEfojcBMk4PU-23" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="AMK8Q_F3SEfojcBMk4PU-11" target="AMK8Q_F3SEfojcBMk4PU-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="AMK8Q_F3SEfojcBMk4PU-11" value="安排" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="370" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AMK8Q_F3SEfojcBMk4PU-24" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="AMK8Q_F3SEfojcBMk4PU-12" target="AMK8Q_F3SEfojcBMk4PU-21">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AMK8Q_F3SEfojcBMk4PU-12" value="记录" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="370" width="80" height="40" as="geometry" />
