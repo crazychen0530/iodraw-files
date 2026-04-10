@@ -22,7 +22,7 @@
         <mxCell id="AMK8Q_F3SEfojcBMk4PU-13" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="AMK8Q_F3SEfojcBMk4PU-5" target="AMK8Q_F3SEfojcBMk4PU-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AMK8Q_F3SEfojcBMk4PU-14" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AMK8Q_F3SEfojcBMk4PU-5" target="AMK8Q_F3SEfojcBMk4PU-11">
+        <mxCell id="AMK8Q_F3SEfojcBMk4PU-14" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="AMK8Q_F3SEfojcBMk4PU-5" target="AMK8Q_F3SEfojcBMk4PU-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AMK8Q_F3SEfojcBMk4PU-5" value="教室表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -40,7 +40,7 @@
         <mxCell id="AMK8Q_F3SEfojcBMk4PU-11" value="安排" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="370" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AMK8Q_F3SEfojcBMk4PU-12" value="配备" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AMK8Q_F3SEfojcBMk4PU-12" value="记录" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="370" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
