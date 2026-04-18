@@ -45,7 +45,7 @@
           <mxGeometry x="219.5" y="480" width="145" height="57" as="geometry" />
         </mxCell>
         <mxCell id="e18dcCvAtqXNNOI8VP0e-48" value="提示“人数信息获取失败，请稍后再试”" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="30" y="585" width="244" height="67" as="geometry" />
+          <mxGeometry x="30" y="591" width="230" height="52" as="geometry" />
         </mxCell>
         <mxCell id="e18dcCvAtqXNNOI8VP0e-49" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="264" y="1288" width="55" height="34" as="geometry" />
