@@ -13,6 +13,9 @@
         <mxCell id="D8eym_Mkc9hr2TtOsRwc-20" value="计算特征值（Haar + 积分图）" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="205" y="180" width="203" height="67" as="geometry" />
         </mxCell>
+        <mxCell id="FmdvL_eWnrBX2oMGlleU-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="D8eym_Mkc9hr2TtOsRwc-21" target="D8eym_Mkc9hr2TtOsRwc-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="D8eym_Mkc9hr2TtOsRwc-21" value="是否满足特征1?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="227" y="280" width="159" height="81" as="geometry" />
         </mxCell>
