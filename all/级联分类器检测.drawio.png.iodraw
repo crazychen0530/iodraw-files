@@ -25,7 +25,7 @@
           <mxGeometry x="227" y="280" width="159" height="81" as="geometry" />
         </mxCell>
         <mxCell id="D8eym_Mkc9hr2TtOsRwc-22" value="非人脸" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" parent="1" vertex="1">
-          <mxGeometry x="20" y="1016" width="108" height="49" as="geometry" />
+          <mxGeometry x="30" y="680" width="108" height="49" as="geometry" />
         </mxCell>
         <mxCell id="D8eym_Mkc9hr2TtOsRwc-23" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="283" y="1115" width="55" height="34" as="geometry" />
@@ -35,7 +35,7 @@
         </mxCell>
         <mxCell id="FmdvL_eWnrBX2oMGlleU-4" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="FmdvL_eWnrBX2oMGlleU-3">
           <mxGeometry x="0.0218" y="-4" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="D8eym_Mkc9hr2TtOsRwc-24" value="是否满足特征2?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=17;" parent="1" vertex="1">
