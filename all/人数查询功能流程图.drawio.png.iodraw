@@ -45,13 +45,13 @@
           <mxGeometry x="219.5" y="480" width="145" height="57" as="geometry" />
         </mxCell>
         <mxCell id="e18dcCvAtqXNNOI8VP0e-48" value="提示“人数信息获取失败，请稍后再试”" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="20" y="760" width="244" height="67" as="geometry" />
+          <mxGeometry x="30" y="585" width="244" height="67" as="geometry" />
         </mxCell>
         <mxCell id="e18dcCvAtqXNNOI8VP0e-49" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="264" y="1288" width="55" height="34" as="geometry" />
         </mxCell>
         <mxCell id="e18dcCvAtqXNNOI8VP0e-50" value="系统返回当前教室人数" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="330" y="950" width="220" height="49" as="geometry" />
+          <mxGeometry x="314" y="594" width="220" height="49" as="geometry" />
         </mxCell>
         <mxCell id="e18dcCvAtqXNNOI8VP0e-51" value="页面展示教室当前人数情况" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="314" y="1072" width="252" height="49" as="geometry" />
