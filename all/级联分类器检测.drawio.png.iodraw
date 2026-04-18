@@ -21,6 +21,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="FmdvL_eWnrBX2oMGlleU-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="D8eym_Mkc9hr2TtOsRwc-21" target="D8eym_Mkc9hr2TtOsRwc-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="D8eym_Mkc9hr2TtOsRwc-21" value="是否满足特征1?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="227" y="280" width="159" height="81" as="geometry" />
         </mxCell>
@@ -37,6 +40,9 @@
           <mxGeometry x="0.0218" y="-4" relative="1" as="geometry">
             <mxPoint x="3" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="FmdvL_eWnrBX2oMGlleU-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="D8eym_Mkc9hr2TtOsRwc-24" target="D8eym_Mkc9hr2TtOsRwc-25">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="D8eym_Mkc9hr2TtOsRwc-24" value="是否满足特征2?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="227" y="420" width="159" height="80" as="geometry" />
