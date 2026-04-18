@@ -41,6 +41,9 @@
         <mxCell id="jdZapQTe4KkCX_RNhnG_-7" value="是否检测到人脸?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="141" y="470" width="167" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="bKe8jL7ynneO9cjF-b0n-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jdZapQTe4KkCX_RNhnG_-8" target="jdZapQTe4KkCX_RNhnG_-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="jdZapQTe4KkCX_RNhnG_-8" value="输出结果：无人脸" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="30" y="640" width="188" height="49" as="geometry" />
         </mxCell>
