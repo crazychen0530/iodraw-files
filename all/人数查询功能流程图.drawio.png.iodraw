@@ -11,7 +11,7 @@
           <mxGeometry x="197.5" y="70" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="e18dcCvAtqXNNOI8VP0e-42" value="系统识别并统计画面中的人数" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="190" y="140" width="200" height="67" as="geometry" />
+          <mxGeometry x="191.5" y="140" width="188.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="e18dcCvAtqXNNOI8VP0e-43" value="生成人数统计结果" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="197" y="319" width="188" height="49" as="geometry" />
