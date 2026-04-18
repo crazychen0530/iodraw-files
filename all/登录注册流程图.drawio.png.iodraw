@@ -42,13 +42,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4fG31r07575Blq7P5JTx-7" value="校验成功?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="134.5" y="887" width="119" height="50" as="geometry" />
+          <mxGeometry x="134.5" y="690" width="119" height="50" as="geometry" />
         </mxCell>
         <mxCell id="4fG31r07575Blq7P5JTx-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="4fG31r07575Blq7P5JTx-8" target="4fG31r07575Blq7P5JTx-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4fG31r07575Blq7P5JTx-8" value="提示错误信息" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry y="990" width="156" height="49" as="geometry" />
+          <mxGeometry x="7" y="760" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="4fG31r07575Blq7P5JTx-9" value="成功登录账号&#xa;保存Token与用户信息" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="64" y="1060" width="260" height="67" as="geometry" />
@@ -75,7 +75,7 @@
           <mxGeometry x="381.75" y="610" width="189.5" height="49" as="geometry" />
         </mxCell>
         <mxCell id="4fG31r07575Blq7P5JTx-16" value="提交注册请求" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="376.5" y="900" width="200" height="49" as="geometry" />
+          <mxGeometry x="376.5" y="680" width="200" height="49" as="geometry" />
         </mxCell>
         <mxCell id="4fG31r07575Blq7P5JTx-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="4fG31r07575Blq7P5JTx-17" target="4fG31r07575Blq7P5JTx-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
