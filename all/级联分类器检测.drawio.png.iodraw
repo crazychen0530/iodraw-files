@@ -23,7 +23,7 @@
           <mxGeometry x="283" y="1115" width="55" height="34" as="geometry" />
         </mxCell>
         <mxCell id="D8eym_Mkc9hr2TtOsRwc-24" value="是否满足特征2?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=17;" parent="1" vertex="1">
-          <mxGeometry x="306" y="520" width="159" height="80" as="geometry" />
+          <mxGeometry x="227.5" y="390" width="159" height="80" as="geometry" />
         </mxCell>
         <mxCell id="D8eym_Mkc9hr2TtOsRwc-25" value="非人脸" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="178" y="1016" width="108" height="49" as="geometry" />
@@ -56,13 +56,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="74" y="1090" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="D8eym_Mkc9hr2TtOsRwc-34" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.5;entryY=0;rounded=0;fontSize=17;exitDx=0;exitDy=0;" parent="1" source="D8eym_Mkc9hr2TtOsRwc-21" target="D8eym_Mkc9hr2TtOsRwc-24" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="386" y="515" />
             </Array>
           </mxGeometry>
         </mxCell>
