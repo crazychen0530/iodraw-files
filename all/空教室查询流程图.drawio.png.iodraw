@@ -50,7 +50,7 @@
         <mxCell id="G2ipmSTG7ajfccKOAm9C-10" value="接口请求是否成功?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="437" y="590" width="151" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="rvhn2ySkVJy7Qy47DztY-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="G2ipmSTG7ajfccKOAm9C-11" target="G2ipmSTG7ajfccKOAm9C-4" edge="1">
+        <mxCell id="99jZiONP1QUFwS31Oyi8-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="G2ipmSTG7ajfccKOAm9C-11" target="G2ipmSTG7ajfccKOAm9C-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="G2ipmSTG7ajfccKOAm9C-11" value="提示“查询失败”，并返回查询页" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" parent="1" vertex="1">
