@@ -45,13 +45,13 @@
           <mxGeometry x="175" y="680" width="108" height="49" as="geometry" />
         </mxCell>
         <mxCell id="D8eym_Mkc9hr2TtOsRwc-26" value="是否满足特征3?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=17;" parent="1" vertex="1">
-          <mxGeometry x="227" y="550" width="159" height="86" as="geometry" />
+          <mxGeometry x="227" y="560" width="159" height="86" as="geometry" />
         </mxCell>
         <mxCell id="D8eym_Mkc9hr2TtOsRwc-27" value="非人脸" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="336" y="1016" width="108" height="49" as="geometry" />
         </mxCell>
         <mxCell id="D8eym_Mkc9hr2TtOsRwc-28" value="人脸" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" parent="1" vertex="1">
-          <mxGeometry x="494" y="1016" width="92" height="49" as="geometry" />
+          <mxGeometry x="494" y="1000" width="92" height="49" as="geometry" />
         </mxCell>
         <mxCell id="D8eym_Mkc9hr2TtOsRwc-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.51;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=17;" parent="1" source="D8eym_Mkc9hr2TtOsRwc-18" target="D8eym_Mkc9hr2TtOsRwc-19" edge="1">
           <mxGeometry relative="1" as="geometry">
