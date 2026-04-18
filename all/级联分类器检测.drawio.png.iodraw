@@ -30,6 +30,9 @@
         <mxCell id="D8eym_Mkc9hr2TtOsRwc-23" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="283" y="1115" width="55" height="34" as="geometry" />
         </mxCell>
+        <mxCell id="FmdvL_eWnrBX2oMGlleU-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="D8eym_Mkc9hr2TtOsRwc-24" target="D8eym_Mkc9hr2TtOsRwc-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="D8eym_Mkc9hr2TtOsRwc-24" value="是否满足特征2?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="227" y="420" width="159" height="80" as="geometry" />
         </mxCell>
@@ -37,7 +40,7 @@
           <mxGeometry x="178" y="1016" width="108" height="49" as="geometry" />
         </mxCell>
         <mxCell id="D8eym_Mkc9hr2TtOsRwc-26" value="是否满足特征3?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=17;" parent="1" vertex="1">
-          <mxGeometry x="369" y="730" width="159" height="86" as="geometry" />
+          <mxGeometry x="227" y="550" width="159" height="86" as="geometry" />
         </mxCell>
         <mxCell id="D8eym_Mkc9hr2TtOsRwc-27" value="非人脸" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="336" y="1016" width="108" height="49" as="geometry" />
@@ -78,13 +81,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="232" y="1090" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="D8eym_Mkc9hr2TtOsRwc-37" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.5;entryY=0;rounded=0;fontSize=17;exitDx=0;exitDy=0;" parent="1" source="D8eym_Mkc9hr2TtOsRwc-24" target="D8eym_Mkc9hr2TtOsRwc-26" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="465" y="747" />
             </Array>
           </mxGeometry>
         </mxCell>
