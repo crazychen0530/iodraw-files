@@ -58,6 +58,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="FmdvL_eWnrBX2oMGlleU-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="D8eym_Mkc9hr2TtOsRwc-26" target="D8eym_Mkc9hr2TtOsRwc-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FmdvL_eWnrBX2oMGlleU-10" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FmdvL_eWnrBX2oMGlleU-9">
+          <mxGeometry x="-0.3799" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="D8eym_Mkc9hr2TtOsRwc-26" value="是否满足特征3?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="227" y="560" width="159" height="86" as="geometry" />
         </mxCell>
