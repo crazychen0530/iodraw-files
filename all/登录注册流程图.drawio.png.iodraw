@@ -25,7 +25,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4fG31r07575Blq7P5JTx-4" value="判断是否已注册?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="242" y="510" width="167" height="70" as="geometry" />
+          <mxGeometry x="243.5" y="450" width="167" height="70" as="geometry" />
         </mxCell>
         <mxCell id="4fG31r07575Blq7P5JTx-5" value="输入用户名和密码" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="100" y="660" width="188" height="49" as="geometry" />
