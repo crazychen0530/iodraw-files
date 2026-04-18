@@ -152,9 +152,6 @@
         <mxCell id="rvhn2ySkVJy7Qy47DztY-9" value="调用 GET /api/peoplecount?roomNumber=xxx" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="528.5" y="1020" width="272" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="rvhn2ySkVJy7Qy47DztY-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="rvhn2ySkVJy7Qy47DztY-15" target="rvhn2ySkVJy7Qy47DztY-19" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="rvhn2ySkVJy7Qy47DztY-15" value="更新该教室当前人数显示" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="528.5" y="1360" width="272" height="49" as="geometry" />
         </mxCell>
