@@ -54,10 +54,10 @@
           <mxGeometry x="314" y="594" width="220" height="49" as="geometry" />
         </mxCell>
         <mxCell id="e18dcCvAtqXNNOI8VP0e-51" value="页面展示教室当前人数情况" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="314" y="1072" width="252" height="49" as="geometry" />
+          <mxGeometry x="298" y="670" width="252" height="49" as="geometry" />
         </mxCell>
         <mxCell id="e18dcCvAtqXNNOI8VP0e-52" value="用户根据人数判断教室是否适合使用" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="314" y="1171" width="252" height="67" as="geometry" />
+          <mxGeometry x="298" y="750" width="252" height="67" as="geometry" />
         </mxCell>
         <mxCell id="e18dcCvAtqXNNOI8VP0e-53" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" source="e18dcCvAtqXNNOI8VP0e-40" target="e18dcCvAtqXNNOI8VP0e-41" edge="1">
           <mxGeometry relative="1" as="geometry">
