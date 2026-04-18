@@ -31,7 +31,7 @@
           <mxGeometry x="100" y="536" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="4fG31r07575Blq7P5JTx-6" value="系统校验账号信息" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="100" y="800" width="188" height="49" as="geometry" />
+          <mxGeometry x="100" y="610" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="4fG31r07575Blq7P5JTx-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="4fG31r07575Blq7P5JTx-7" target="4fG31r07575Blq7P5JTx-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
