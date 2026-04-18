@@ -11,13 +11,13 @@
           <mxGeometry x="111.5" y="80" width="228" height="49" as="geometry" />
         </mxCell>
         <mxCell id="jdZapQTe4KkCX_RNhnG_-3" value="加载 Haar Cascade 分类器" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="102" y="203" width="246" height="49" as="geometry" />
+          <mxGeometry x="102.5" y="150" width="246" height="49" as="geometry" />
         </mxCell>
         <mxCell id="jdZapQTe4KkCX_RNhnG_-4" value="读取输入图像" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="147" y="302" width="156" height="49" as="geometry" />
+          <mxGeometry x="147.5" y="230" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="jdZapQTe4KkCX_RNhnG_-5" value="图像预处理（灰度化）" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="115" y="401" width="220" height="49" as="geometry" />
+          <mxGeometry x="115.5" y="310" width="220" height="49" as="geometry" />
         </mxCell>
         <mxCell id="jdZapQTe4KkCX_RNhnG_-6" value="多尺度滑动窗口检测" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="123" y="500" width="204" height="49" as="geometry" />
