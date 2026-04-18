@@ -99,7 +99,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="G2ipmSTG7ajfccKOAm9C-16" value="用户是否查看实时人数?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="630.5" y="895" width="183" height="100" as="geometry" />
+          <mxGeometry x="578" y="895" width="183" height="100" as="geometry" />
         </mxCell>
         <mxCell id="G2ipmSTG7ajfccKOAm9C-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.51;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=15;" parent="1" source="G2ipmSTG7ajfccKOAm9C-1" target="G2ipmSTG7ajfccKOAm9C-2" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -175,7 +175,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rvhn2ySkVJy7Qy47DztY-19" value="是否继续查询其他条件" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="850" y="1020" width="183" height="100" as="geometry" />
+          <mxGeometry x="760" y="1040" width="183" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
