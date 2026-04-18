@@ -44,17 +44,23 @@
         <mxCell id="e18dcCvAtqXNNOI8VP0e-47" value="查询是否成功" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="219.5" y="480" width="145" height="57" as="geometry" />
         </mxCell>
+        <mxCell id="TUFT4u6_EsmrsjHwMWXE-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="e18dcCvAtqXNNOI8VP0e-48" target="e18dcCvAtqXNNOI8VP0e-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="e18dcCvAtqXNNOI8VP0e-48" value="提示“人数信息获取失败，请稍后再试”" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="30" y="591" width="230" height="52" as="geometry" />
         </mxCell>
         <mxCell id="e18dcCvAtqXNNOI8VP0e-49" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="290" y="900" width="55" height="34" as="geometry" />
+          <mxGeometry x="290" y="840" width="55" height="34" as="geometry" />
         </mxCell>
         <mxCell id="e18dcCvAtqXNNOI8VP0e-50" value="系统返回当前教室人数" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="314" y="594" width="220" height="49" as="geometry" />
         </mxCell>
         <mxCell id="e18dcCvAtqXNNOI8VP0e-51" value="页面展示教室当前人数情况" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="298" y="670" width="252" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="TUFT4u6_EsmrsjHwMWXE-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="e18dcCvAtqXNNOI8VP0e-52" target="e18dcCvAtqXNNOI8VP0e-49">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="e18dcCvAtqXNNOI8VP0e-52" value="用户根据人数判断教室是否适合使用" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="298" y="750" width="252" height="67" as="geometry" />
