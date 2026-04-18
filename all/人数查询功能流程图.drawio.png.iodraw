@@ -20,10 +20,10 @@
           <mxGeometry x="182" y="270" width="220" height="49" as="geometry" />
         </mxCell>
         <mxCell id="e18dcCvAtqXNNOI8VP0e-45" value="用户进入教室查询或详情页面" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="166" y="340" width="252" height="67" as="geometry" />
+          <mxGeometry x="182" y="340" width="220" height="50" as="geometry" />
         </mxCell>
         <mxCell id="e18dcCvAtqXNNOI8VP0e-46" value="用户发起人数查询" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="197" y="634" width="188" height="49" as="geometry" />
+          <mxGeometry x="197.5" y="410" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="e18dcCvAtqXNNOI8VP0e-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="e18dcCvAtqXNNOI8VP0e-47" target="e18dcCvAtqXNNOI8VP0e-48" edge="1">
           <mxGeometry relative="1" as="geometry" />
