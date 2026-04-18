@@ -16,7 +16,7 @@
         <mxCell id="FmdvL_eWnrBX2oMGlleU-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="D8eym_Mkc9hr2TtOsRwc-21" target="D8eym_Mkc9hr2TtOsRwc-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FmdvL_eWnrBX2oMGlleU-2" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FmdvL_eWnrBX2oMGlleU-1">
+        <mxCell id="FmdvL_eWnrBX2oMGlleU-2" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;" vertex="1" connectable="0" parent="FmdvL_eWnrBX2oMGlleU-1">
           <mxGeometry x="-0.0909" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -37,7 +37,7 @@
           <mxGeometry x="178" y="1016" width="108" height="49" as="geometry" />
         </mxCell>
         <mxCell id="D8eym_Mkc9hr2TtOsRwc-26" value="是否满足特征3?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=17;" parent="1" vertex="1">
-          <mxGeometry x="386" y="760" width="159" height="86" as="geometry" />
+          <mxGeometry x="369" y="730" width="159" height="86" as="geometry" />
         </mxCell>
         <mxCell id="D8eym_Mkc9hr2TtOsRwc-27" value="非人脸" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="336" y="1016" width="108" height="49" as="geometry" />
