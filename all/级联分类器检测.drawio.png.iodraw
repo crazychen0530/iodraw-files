@@ -42,7 +42,7 @@
           <mxGeometry x="227" y="420" width="159" height="80" as="geometry" />
         </mxCell>
         <mxCell id="D8eym_Mkc9hr2TtOsRwc-25" value="非人脸" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" parent="1" vertex="1">
-          <mxGeometry x="178" y="1016" width="108" height="49" as="geometry" />
+          <mxGeometry x="175" y="680" width="108" height="49" as="geometry" />
         </mxCell>
         <mxCell id="D8eym_Mkc9hr2TtOsRwc-26" value="是否满足特征3?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="227" y="550" width="159" height="86" as="geometry" />
@@ -75,24 +75,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="D8eym_Mkc9hr2TtOsRwc-35" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=0.5;entryY=-0.01;rounded=0;fontSize=17;exitDx=0;exitDy=0;" parent="1" source="D8eym_Mkc9hr2TtOsRwc-24" target="D8eym_Mkc9hr2TtOsRwc-25" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="232" y="747" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="D8eym_Mkc9hr2TtOsRwc-36" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0;entryY=0.05;rounded=0;fontSize=17;" parent="1" source="D8eym_Mkc9hr2TtOsRwc-25" target="D8eym_Mkc9hr2TtOsRwc-23" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="232" y="1090" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="D8eym_Mkc9hr2TtOsRwc-38" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=0.5;entryY=-0.01;rounded=0;fontSize=17;exitDx=0;exitDy=0;" parent="1" source="D8eym_Mkc9hr2TtOsRwc-26" target="D8eym_Mkc9hr2TtOsRwc-27" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="390" y="979" />
             </Array>
           </mxGeometry>
         </mxCell>
