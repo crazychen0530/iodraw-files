@@ -16,7 +16,7 @@
         <mxCell id="uiReTQHUSw6Yuw_a4W-x-3" value="用户认证" style="ellipse;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="280" y="440" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="uiReTQHUSw6Yuw_a4W-x-4" value="人数查询" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="uiReTQHUSw6Yuw_a4W-x-4" value="人数查询" style="ellipse;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="280" y="500" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uiReTQHUSw6Yuw_a4W-x-6" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="uiReTQHUSw6Yuw_a4W-x-1" target="uiReTQHUSw6Yuw_a4W-x-2" edge="1">
@@ -37,7 +37,7 @@
             <mxPoint x="420" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uiReTQHUSw6Yuw_a4W-x-9" value="查看教室详情" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="uiReTQHUSw6Yuw_a4W-x-9" value="查看教室详情" style="ellipse;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="510" y="320" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uiReTQHUSw6Yuw_a4W-x-10" value="按条件查询" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
