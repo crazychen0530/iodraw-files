@@ -116,7 +116,10 @@
           <mxGeometry x="1236" y="848.5" width="144" height="49" as="geometry" />
         </mxCell>
         <mxCell id="La1mBwY6Vtuilat8LZ-H-29" value="提示删除成功" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1403" y="850" width="144" height="49" as="geometry" />
+          <mxGeometry x="1396" y="848.5" width="144" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="La1mBwY6Vtuilat8LZ-H-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="960" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
