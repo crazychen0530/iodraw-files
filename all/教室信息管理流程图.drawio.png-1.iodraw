@@ -35,11 +35,17 @@
         <mxCell id="La1mBwY6Vtuilat8LZ-H-2" value="展示教室列表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1160" y="240" width="236" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="La1mBwY6Vtuilat8LZ-H-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="La1mBwY6Vtuilat8LZ-H-3" target="La1mBwY6Vtuilat8LZ-H-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="La1mBwY6Vtuilat8LZ-H-3" value="选择管理操作 " style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1176" y="320" width="204" height="49" as="geometry" />
         </mxCell>
         <mxCell id="La1mBwY6Vtuilat8LZ-H-5" value="操作类型" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1213" y="430" width="130" height="80" as="geometry" />
+          <mxGeometry x="1213" y="400" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="La1mBwY6Vtuilat8LZ-H-7" value="管理员进入管理后台" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1196" y="100" width="204" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
