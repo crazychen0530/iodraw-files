@@ -45,7 +45,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="G2ipmSTG7ajfccKOAm9C-11" value="提示“查询失败”，并返回查询页" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="144" y="436.5" width="244" height="67" as="geometry" />
+          <mxGeometry x="160" y="440" width="198" height="53.5" as="geometry" />
         </mxCell>
         <mxCell id="G2ipmSTG7ajfccKOAm9C-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;" parent="1" source="G2ipmSTG7ajfccKOAm9C-12" target="G2ipmSTG7ajfccKOAm9C-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -56,7 +56,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="G2ipmSTG7ajfccKOAm9C-12" value="返回空教室列表是否为空?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="405" y="680" width="230" height="90" as="geometry" />
+          <mxGeometry x="397.5" y="660" width="230" height="90" as="geometry" />
         </mxCell>
         <mxCell id="rvhn2ySkVJy7Qy47DztY-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="G2ipmSTG7ajfccKOAm9C-13" target="rvhn2ySkVJy7Qy47DztY-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
