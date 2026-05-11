@@ -65,7 +65,7 @@
           <mxGeometry x="257" y="630" width="189" height="49" as="geometry" />
         </mxCell>
         <mxCell id="G2ipmSTG7ajfccKOAm9C-14" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="351.5" y="1199" width="55" height="34" as="geometry" />
+          <mxGeometry x="324" y="1199" width="55" height="34" as="geometry" />
         </mxCell>
         <mxCell id="G2ipmSTG7ajfccKOAm9C-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=15;" parent="1" source="G2ipmSTG7ajfccKOAm9C-15" target="G2ipmSTG7ajfccKOAm9C-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -141,13 +141,8 @@
         <mxCell id="rvhn2ySkVJy7Qy47DztY-9" value="获取人数信息" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="460" y="930" width="170" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="99jZiONP1QUFwS31Oyi8-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="rvhn2ySkVJy7Qy47DztY-15" target="rvhn2ySkVJy7Qy47DztY-19" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="740" y="1175" />
-              <mxPoint x="740" y="1090" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="G6QyhWKbI8WqpsHzczrV-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rvhn2ySkVJy7Qy47DztY-15" target="rvhn2ySkVJy7Qy47DztY-19">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rvhn2ySkVJy7Qy47DztY-15" value="更新该教室当前人数显示" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="449.5" y="1060" width="191" height="49" as="geometry" />
