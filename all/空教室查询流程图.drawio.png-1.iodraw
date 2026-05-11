@@ -62,7 +62,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="G2ipmSTG7ajfccKOAm9C-13" value="页面显示“暂无空教室”" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="284.5" y="807.5" width="189" height="49" as="geometry" />
+          <mxGeometry x="260" y="807.5" width="189" height="49" as="geometry" />
         </mxCell>
         <mxCell id="G2ipmSTG7ajfccKOAm9C-14" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="351.5" y="1199" width="55" height="34" as="geometry" />
