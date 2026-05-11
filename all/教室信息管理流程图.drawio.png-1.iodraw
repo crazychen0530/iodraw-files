@@ -44,8 +44,8 @@
         <mxCell id="La1mBwY6Vtuilat8LZ-H-5" value="操作类型" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1213" y="400" width="130" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="La1mBwY6Vtuilat8LZ-H-7" value="管理员进入管理后台" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1196" y="100" width="204" height="49" as="geometry" />
+        <mxCell id="La1mBwY6Vtuilat8LZ-H-7" value="填写教室信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="956" y="530" width="144" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
