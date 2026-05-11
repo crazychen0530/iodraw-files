@@ -74,6 +74,11 @@
         <mxCell id="La1mBwY6Vtuilat8LZ-H-7" value="填写教室信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1016" y="540" width="144" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="La1mBwY6Vtuilat8LZ-H-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="La1mBwY6Vtuilat8LZ-H-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1170" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="La1mBwY6Vtuilat8LZ-H-9" value="修改已有教室信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1206" y="540" width="144" height="49" as="geometry" />
         </mxCell>
@@ -82,6 +87,9 @@
         </mxCell>
         <mxCell id="La1mBwY6Vtuilat8LZ-H-16" value="提交保存" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1097" y="660" width="144" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="La1mBwY6Vtuilat8LZ-H-19" value="填写教室信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1056" y="600" width="144" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
