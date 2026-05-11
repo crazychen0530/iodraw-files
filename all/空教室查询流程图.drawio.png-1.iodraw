@@ -18,11 +18,10 @@
         <mxCell id="G2ipmSTG7ajfccKOAm9C-4" value="用户选择或填写筛选条件" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="394.5" y="250" width="236" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="G2ipmSTG7ajfccKOAm9C-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;" parent="1" source="G2ipmSTG7ajfccKOAm9C-8" target="G2ipmSTG7ajfccKOAm9C-9" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="G2ipmSTG7ajfccKOAm9C-8" value="前端组装查询参数" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="382.5" y="400" width="260" height="70" as="geometry" />
+        <mxCell id="G2ipmSTG7ajfccKOAm9C-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;" parent="1" target="G2ipmSTG7ajfccKOAm9C-9" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="512.5" y="470" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="G2ipmSTG7ajfccKOAm9C-9" value="调用后端接口&#xa;GET /api/classrooms/empty" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="398" y="500" width="229" height="67" as="geometry" />
@@ -108,10 +107,10 @@
             <mxPoint x="513" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G2ipmSTG7ajfccKOAm9C-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;fontSize=15;entryDx=0;entryDy=0;" parent="1" target="G2ipmSTG7ajfccKOAm9C-8" edge="1">
+        <mxCell id="G2ipmSTG7ajfccKOAm9C-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;fontSize=15;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-            <mxPoint x="513.5000000000002" y="540" as="targetPoint" />
+            <mxPoint x="512.5" y="400" as="targetPoint" />
             <mxPoint x="513" y="379" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
