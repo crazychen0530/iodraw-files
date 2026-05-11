@@ -118,8 +118,8 @@
         <mxCell id="La1mBwY6Vtuilat8LZ-H-29" value="提示删除成功" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1396" y="848.5" width="144" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="La1mBwY6Vtuilat8LZ-H-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="960" width="120" height="60" as="geometry" />
+        <mxCell id="La1mBwY6Vtuilat8LZ-H-33" value="开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="30" width="55" height="34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
