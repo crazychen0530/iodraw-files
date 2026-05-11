@@ -50,8 +50,8 @@
         <mxCell id="La1mBwY6Vtuilat8LZ-H-7" value="填写教室信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1016" y="540" width="144" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="La1mBwY6Vtuilat8LZ-H-9" value="填写教室信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1026" y="570" width="144" height="49" as="geometry" />
+        <mxCell id="La1mBwY6Vtuilat8LZ-H-9" value="修改已有教室信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1199" y="540" width="144" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
