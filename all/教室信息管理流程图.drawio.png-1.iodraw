@@ -95,7 +95,10 @@
           <mxGeometry x="1097" y="760" width="144" height="49" as="geometry" />
         </mxCell>
         <mxCell id="La1mBwY6Vtuilat8LZ-H-21" value="操作类型" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1223" y="410" width="130" height="80" as="geometry" />
+          <mxGeometry x="1403" y="640" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="La1mBwY6Vtuilat8LZ-H-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.492;entryY=0.139;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="La1mBwY6Vtuilat8LZ-H-11" target="La1mBwY6Vtuilat8LZ-H-21">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
