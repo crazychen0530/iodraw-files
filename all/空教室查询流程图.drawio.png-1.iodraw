@@ -90,7 +90,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="G2ipmSTG7ajfccKOAm9C-16" value="用户是否查看实时人数?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="578" y="895" width="183" height="100" as="geometry" />
+          <mxGeometry x="573.5" y="740" width="183" height="100" as="geometry" />
         </mxCell>
         <mxCell id="G2ipmSTG7ajfccKOAm9C-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.51;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=15;" parent="1" source="G2ipmSTG7ajfccKOAm9C-1" target="G2ipmSTG7ajfccKOAm9C-2" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -122,7 +122,7 @@
         <mxCell id="99jZiONP1QUFwS31Oyi8-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="rvhn2ySkVJy7Qy47DztY-2" target="G2ipmSTG7ajfccKOAm9C-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="130" y="950" />
+              <mxPoint x="130" y="825" />
               <mxPoint x="130" y="275" />
             </Array>
           </mxGeometry>
@@ -133,7 +133,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rvhn2ySkVJy7Qy47DztY-2" value="是否重新查询？" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="263" y="910" width="183" height="90" as="geometry" />
+          <mxGeometry x="260" y="780" width="183" height="90" as="geometry" />
         </mxCell>
         <mxCell id="rvhn2ySkVJy7Qy47DztY-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="rvhn2ySkVJy7Qy47DztY-9" target="rvhn2ySkVJy7Qy47DztY-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
