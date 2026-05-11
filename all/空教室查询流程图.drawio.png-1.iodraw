@@ -5,10 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="G2ipmSTG7ajfccKOAm9C-1" value="开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="485.5" y="50" width="55" height="34" as="geometry" />
+          <mxGeometry x="485" y="90" width="55" height="34" as="geometry" />
         </mxCell>
         <mxCell id="G2ipmSTG7ajfccKOAm9C-2" value="进入空教室查询页面" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="410.5" y="140" width="204" height="49" as="geometry" />
+          <mxGeometry x="411" y="160" width="204" height="49" as="geometry" />
         </mxCell>
         <mxCell id="G2ipmSTG7ajfccKOAm9C-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;" parent="1" source="G2ipmSTG7ajfccKOAm9C-4" target="G2ipmSTG7ajfccKOAm9C-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
