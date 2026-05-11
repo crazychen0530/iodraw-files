@@ -106,6 +106,9 @@
         <mxCell id="La1mBwY6Vtuilat8LZ-H-24" value="确认删除教室" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1396" y="630" width="144" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="La1mBwY6Vtuilat8LZ-H-27" value="填写教室信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1036" y="560" width="144" height="49" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
