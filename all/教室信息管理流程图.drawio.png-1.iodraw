@@ -97,18 +97,13 @@
         <mxCell id="e-ZtsUQkO07nN9zuQuXP-11" value="刷新并展示最新教室列表" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1200" y="1007" width="236" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="e-ZtsUQkO07nN9zuQuXP-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="e-ZtsUQkO07nN9zuQuXP-12" edge="1">
+        <mxCell id="e-ZtsUQkO07nN9zuQuXP-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="e-ZtsUQkO07nN9zuQuXP-12" target="e-ZtsUQkO07nN9zuQuXP-14" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1278" y="800" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="e-ZtsUQkO07nN9zuQuXP-12" value="选择目标教室并编辑信息" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1192.5" y="411" width="170" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="e-ZtsUQkO07nN9zuQuXP-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="e-ZtsUQkO07nN9zuQuXP-14" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1356" y="824.5" as="sourcePoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="e-ZtsUQkO07nN9zuQuXP-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="e-ZtsUQkO07nN9zuQuXP-14" target="e-ZtsUQkO07nN9zuQuXP-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
