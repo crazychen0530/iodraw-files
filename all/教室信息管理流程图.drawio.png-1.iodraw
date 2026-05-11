@@ -100,6 +100,9 @@
         <mxCell id="La1mBwY6Vtuilat8LZ-H-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="La1mBwY6Vtuilat8LZ-H-21" target="La1mBwY6Vtuilat8LZ-H-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="La1mBwY6Vtuilat8LZ-H-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="La1mBwY6Vtuilat8LZ-H-21" target="La1mBwY6Vtuilat8LZ-H-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="La1mBwY6Vtuilat8LZ-H-21" value="是否确认删除？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1403" y="720" width="130" height="80" as="geometry" />
         </mxCell>
@@ -112,11 +115,8 @@
         <mxCell id="La1mBwY6Vtuilat8LZ-H-27" value="取消删除" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1236" y="848.5" width="144" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="La1mBwY6Vtuilat8LZ-H-29" value="填写教室信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="La1mBwY6Vtuilat8LZ-H-29" value="提示删除成功" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1403" y="850" width="144" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="La1mBwY6Vtuilat8LZ-H-30" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1443" y="859.5" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
