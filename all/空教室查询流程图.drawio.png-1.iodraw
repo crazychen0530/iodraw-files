@@ -73,7 +73,7 @@
         <mxCell id="G2ipmSTG7ajfccKOAm9C-15" value="显示空教室信息" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="560" y="629" width="210" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="rvhn2ySkVJy7Qy47DztY-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="G2ipmSTG7ajfccKOAm9C-16" target="rvhn2ySkVJy7Qy47DztY-9" edge="1">
+        <mxCell id="rvhn2ySkVJy7Qy47DztY-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="G2ipmSTG7ajfccKOAm9C-16" target="rvhn2ySkVJy7Qy47DztY-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rvhn2ySkVJy7Qy47DztY-14" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;" parent="rvhn2ySkVJy7Qy47DztY-13" vertex="1" connectable="0">
@@ -139,7 +139,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rvhn2ySkVJy7Qy47DztY-9" value="获取人数信息" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="460" y="930" width="272" height="49" as="geometry" />
+          <mxGeometry x="460" y="930" width="170" height="49" as="geometry" />
         </mxCell>
         <mxCell id="99jZiONP1QUFwS31Oyi8-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="rvhn2ySkVJy7Qy47DztY-15" target="rvhn2ySkVJy7Qy47DztY-19" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -169,7 +169,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rvhn2ySkVJy7Qy47DztY-19" value="是否继续查询其他条件" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="760" y="1040" width="183" height="100" as="geometry" />
+          <mxGeometry x="700" y="910" width="183" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
